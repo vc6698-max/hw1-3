@@ -1,0 +1,10 @@
+*.class
+.vscode
+.DS_Store
+.project
+.classpath
+.settings
+.idea
+*.iml
+
+*.zip
